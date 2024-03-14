@@ -30,11 +30,19 @@ Results
 The simulation produced the following insights for Google stock's price prediction for the 29th of February, 2024:
 
 **Expected Price: The expected stock price two days later was calculated to be approximately $138.09.**
+
 95% Confidence Interval: The price is expected to fall within $132.39 and $143.74 with a 95% level of confidence.
 Additional intervals and a refined forecast suggested slight variations in expected price and confidence intervals, highlighting the model's sensitivity to statistical parameters.
-Backtesting Results
 
-Backtesting was intended to validate the simulation model against the actual market performance. However, the specific outcome of this backtesting process, including the actual closing price of Google stock on the 29th of February, and the comparison of predicted versus actual values, remains to be detailed. This section will underscore the model's accuracy and reliability in real-world scenarios, offering critical insights into its efficacy for stock price prediction.
+### Backtesting Results
+
+The expected price for 2 days later is: 138.75097515539002
+
+The 95% confidence interval for the price 2 days later is: (130.7107075477952, 146.91774464512181)
+
+The 98% confidence interval for the price 2 days later is: (129.26542805865614, 148.45331385834814)
+
+The actual closing price for Google on the 29th of Feburary was: 138.08
 
 ## Author
 
