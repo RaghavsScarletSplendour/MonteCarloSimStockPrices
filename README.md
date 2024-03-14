@@ -33,3 +33,7 @@ Additional intervals and a refined forecast suggested slight variations in expec
 Backtesting Results
 
 Backtesting was intended to validate the simulation model against the actual market performance. However, the specific outcome of this backtesting process, including the actual closing price of Google stock on the 29th of February, and the comparison of predicted versus actual values, remains to be detailed. This section will underscore the model's accuracy and reliability in real-world scenarios, offering critical insights into its efficacy for stock price prediction.
+
+## Author
+
+Raghav Bajoria
