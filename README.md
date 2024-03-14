@@ -11,6 +11,8 @@ The Monte Carlo method is a statistical technique that allows for the simulation
 ## Visualization
 
 Visualization plays a crucial role in this project, enabling the interpretation of simulated stock price trajectories over time. Through graphical representation, users can visually assess the range of potential future stock prices, which is facilitated by plotting the outcomes of the Monte Carlo simulations.
+![image](https://github.com/RaghavsScarletSplendour/MonteCarloSimStockPrices/assets/72269666/9cc287fc-872f-4ca8-bd4d-28be76dc1e10)
+
 
 ## Live Testing
 
