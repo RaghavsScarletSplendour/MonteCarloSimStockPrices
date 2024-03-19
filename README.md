@@ -4,6 +4,20 @@
 
 This project involves simulating stock price movements using the Monte Carlo method. It aims to provide an understanding of potential future movements of a stock's price based on historical data, thereby assisting in investment decision-making.
 
+## Prerequisites
+
+This project requires a basic understanding of Python programming and statistics. Familiarity with financial markets is helpful but not necessary. Ensure you have Python and the necessary libraries installed before starting.
+
+## Getting Started
+
+To dive into the world of stock price simulation with Monte Carlo methods, clone this repository and follow the interactive Jupyter Notebook:
+
+bash
+```
+git clone <repository-url>
+cd <repository-directory>
+pip install -r requirements.txt
+```
 ## What is Monte Carlo?
 
 The Monte Carlo method is a statistical technique that allows for the simulation of a wide range of possible outcomes in a process that cannot easily be predicted due to the intervention of random variables. It is widely used in finance, engineering, and science to model the probability of different outcomes in a process that cannot easily be predicted due to the complexity of the variables involved.
