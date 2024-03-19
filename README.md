@@ -12,8 +12,7 @@ This project requires a basic understanding of Python programming and statistics
 
 To dive into the world of stock price simulation with Monte Carlo methods, clone this repository and follow the interactive Jupyter Notebook:
 
-bash
-```
+```bash
 git clone https://github.com/RaghavsScarletSplendour/MonteCarloSimStockPrices.git
 cd MonteCarloSimStockPrices
 jupyter notebook
