@@ -14,9 +14,9 @@ To dive into the world of stock price simulation with Monte Carlo methods, clone
 
 bash
 ```
-git clone <repository-url>
-cd <repository-directory>
-pip install -r requirements.txt
+git clone https://github.com/RaghavsScarletSplendour/MonteCarloSimStockPrices.git
+cd MonteCarloSimStockPrices
+jupyter notebook
 ```
 ## What is Monte Carlo?
 
