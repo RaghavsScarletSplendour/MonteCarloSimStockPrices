@@ -10,7 +10,9 @@ This project requires a basic understanding of Python programming and statistics
 
 ## Youtube Tutorial
 [![Video Title](<img width="247" alt="image" src="https://github.com/RaghavsScarletSplendour/MonteCarloSimStockPrices/assets/72269666/f98f07b5-498c-4766-82a1-c716807dc090">
-)]([https://www.youtube.com/watch?v=yourvideoid](https://youtu.be/gQcz_Vc4tso?si=ioQXmfBbOLo6ZsDb))
+)](https://youtu.be/gQcz_Vc4tso?si=umLLf6gBR3ijOU6z)
+
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/channel/yourchannelid)
 
 
 ## Getting Started
