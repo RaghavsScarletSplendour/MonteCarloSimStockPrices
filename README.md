@@ -9,7 +9,8 @@ This project involves simulating stock price movements using the Monte Carlo met
 This project requires a basic understanding of Python programming and statistics. Familiarity with financial markets is helpful but not necessary. Ensure you have Python and the necessary libraries installed before starting.
 
 ## Youtube Tutorial
-[![Video Title](<img width="251" alt="Screenshot 2024-03-21 at 13 28 21" src="https://github.com/RaghavsScarletSplendour/MonteCarloSimStockPrices/assets/72269666/33def3dd-b28c-4b70-aad9-c198555d4758">)](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/channel/yourchannelid)
+<img width="251" alt="Screenshot 2024-03-21 at 13 28 21" src="https://github.com/RaghavsScarletSplendour/MonteCarloSimStockPrices/assets/72269666/f2cf2c45-ef13-4905-8ccd-ff89b65e5731">
+
 
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/channel/yourchannelid)
